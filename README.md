@@ -1,5 +1,11 @@
 # UploadDemo
 
+## Run workspace directly in gitpod
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/benvp/liveview_react_upload_demo)
+
+## Run locally
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
